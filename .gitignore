@@ -1,0 +1,22 @@
+# Node dependencies
+node_modules/
+
+# Compiled output
+dist/
+build/
+
+# Logs
+*.log
+
+# IDE and Editor files
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# Yarn lock file
+yarn.lock
