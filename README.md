@@ -1,4 +1,4 @@
-# My Agriculture Project
+# Agriculture Data Analysis Project
 
 This project is focusing on data analysis of an Indian Agriculture dataset, Developed by using TypeScript/JavaScript, React.
 
